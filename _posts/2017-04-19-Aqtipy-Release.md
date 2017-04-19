@@ -28,9 +28,13 @@ Community is the lifeblood of a successful opensource project. I want to accept 
 
 ### Software choices - 
 I will cover what drove the decisions for the following software:
+</br>
 Carbon 
+</br>
 Graphite
+</br>
 Python3
+</br>
 ..more to come
 
 
