@@ -6,5 +6,7 @@ image: assets/images/pic04.jpg
 ---
 
 You will need to have guest additions fully installed on the guest and have a folder shared with the guest 
+<pre>
 sudo usermod -a -G vboxsf cloudcowboy
 sudo mount -t vboxsf -o ShareName NewFolder
+</pre>
