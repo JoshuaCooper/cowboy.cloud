@@ -2,8 +2,10 @@
 layout: post
 title: dotnet Ubuntu Setup
 description: Setting up a dotnet environment on Ubunto 16.04
-image: assets/images/03.jpg
+image: assets/images/pic13.jpg
 ---
+
+
 
 A quick guide to setting up a dotnet build environment on Ubuntu 16.04
 <pre>
